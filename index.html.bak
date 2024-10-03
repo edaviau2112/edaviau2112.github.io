@@ -53,12 +53,7 @@ nonce=""></script>
     <link nonce="" rel="prefetch" as="script" href="https://assets.jwwb.nl/assets/website-rendering/667.51d54443a9b31e5f28f6.js">
     <link nonce="" rel="prefetch" as="script" href="https://assets.jwwb.nl/assets/website-rendering/photoswipe.2f77802e74f54d931944.js">
   </head>
-  <body data-jouwweb-page="23128353" data-jouwweb-segment-id="23128353" data-jouwweb-segment-type="page"
-
-    data-template-threshold="1000" data-template-name="fresh|traveling" itemscope=""
-
-    __processed_fbfb06fb-a07a-46cf-b08e-5077186a39c8__="true" style="  left: 3px; top: 3px; height: 3773px;">
-    <meta itemprop="url" content="/">
+  <meta itemprop="url" content="/">
     <div class="jw-body" style="left: -3px; top: -3px; height: 95%">
       <div class="jw-mobile-menu jw-mobile-is-text js-mobile-menu"> <span class="jw-mobile-menu__button jw-mobile-menu__button--dummy"></span>
         <div class="jw-mobile-header jw-mobile-header--text"> <span class="jw-mobile-header-content">
@@ -725,10 +720,16 @@ required="required" id="jwFormrnwPZR_dynamic-form-2818083-9929566" class="form-c
                           title="Contact" class="jw-element-content jw-btn jw-btn--size-default jw-btn--style-flat jw-btn--roundness-square"
 
                           style="">
-                          <div class="jw-btn-caption"> Reservez
-                            votre Aventure </div>
-                        </a> </div>   
-          
+                          <div class="jw-btn-caption"> Reservez votre Aventure </div>
+                        </a> </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </main>
+      </div>
+    </div>
   </body>
 </html>
