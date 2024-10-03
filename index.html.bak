@@ -52,8 +52,9 @@ nonce=""></script>
     <link rel="alternate" hreflang="en-GB" href="/">
     <link nonce="" rel="prefetch" as="script" href="https://assets.jwwb.nl/assets/website-rendering/667.51d54443a9b31e5f28f6.js">
     <link nonce="" rel="prefetch" as="script" href="https://assets.jwwb.nl/assets/website-rendering/photoswipe.2f77802e74f54d931944.js">
+    <meta itemprop="url" content="/">
   </head>
-  <meta itemprop="url" content="/">
+  <body>
     <div class="jw-body" style="left: -3px; top: -3px; height: 95%">
       <div class="jw-mobile-menu jw-mobile-is-text js-mobile-menu"> <span class="jw-mobile-menu__button jw-mobile-menu__button--dummy"></span>
         <div class="jw-mobile-header jw-mobile-header--text"> <span class="jw-mobile-header-content">
@@ -715,12 +716,13 @@ required="required" id="jwFormrnwPZR_dynamic-form-2818083-9929566" class="form-c
                     <div id="jw-element-383694727" data-jw-element-id="383694727"
 
                       class="jw-tree-node jw-element jw-button jw-node-is-last-child">
-                      <div class="jw-btn-container jw-btn-is-center"> <a href="/contact"
+                      <div class="jw-btn-container jw-btn-is-center"> <a href="/contact.html"
 
                           title="Contact" class="jw-element-content jw-btn jw-btn--size-default jw-btn--style-flat jw-btn--roundness-square"
 
                           style="">
-                          <div class="jw-btn-caption"> Reservez votre Aventure </div>
+                          <div class="jw-btn-caption"> Reservez votre
+                            Aventure </div>
                         </a> </div>
                     </div>
                   </div>
