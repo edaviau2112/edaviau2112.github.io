@@ -529,14 +529,15 @@ nonce=""></script>
                               <div class="jw-element-form-content"><input name="dynamic-form-2818083-9929564"
                                   required="required" id="jwForm0yRRuw_dynamic-form-2818083-9929564"
                                   class="form-control jw-element-form-input-text"
-                                  value="" type="text"></div>
+                                  value="Name" placeholder="Name" autocomplete="off"
+                                  type="text"></div>
                             </div>
                             <div class="jw-element-form-group"><label for="jwFormLvm5a6_dynamic-form-2818083-9929565"
                                 class="jw-element-form-label">Email address *</label>
                               <div class="jw-element-form-content"><input name="dynamic-form-2818083-9929565"
                                   required="required" id="jwFormLvm5a6_dynamic-form-2818083-9929565"
                                   class="form-control jw-element-form-input-text"
-                                  value="" type="email"></div>
+                                  value="Email" autocomplete="off" type="email"></div>
                             </div>
                             <div class="jw-element-form-group"><label for="jwFormrnwPZR_dynamic-form-2818083-9929566"
                                 class="jw-element-form-label">Message *</label>
@@ -554,8 +555,8 @@ required="required" id="jwFormrnwPZR_dynamic-form-2818083-9929566" class="form-c
                               value="hDHTK7nWZ3Jienle" type="hidden">
                             <div class="jw-element-form-group"> <button type="submit"
                                 class="jw-element-form-offset jw-btn jw-btn--size-small"
-                                name="submit" formaction="eric.daviau@gmail.com"
-                                formmethod="post" formenctype="application/x-www-form-urlencoded"
+                                name="submit" formaction="mailto:eric.daviau@gmail.com"
+                                formmethod="get" formenctype="application/x-www-form-urlencoded"
                                 formtarget="_self">
                                 <div class="jw-btn-caption">Envoyer Formulaire</div>
                               </button> </div>
