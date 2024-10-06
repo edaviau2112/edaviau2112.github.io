@@ -92,10 +92,11 @@ nonce=""></script>
 
                       href="/index.html" data-page-link-id="23128353"> <span class="">
                         Accueil </span> </a> </li>
-                  <li class="jw-menu-item"> <a class="jw-menu-link" href="/%C3%80+propos.html"
+                  <li class="jw-menu-item"> <a class="jw-menu-link"
 
-                      data-page-link-id="23128366"> <span class=""> À propos </span>
-                    </a> </li>
+                      href="/À propos.html" data-page-link-id="23128366"> <span
+
+                        class=""> À propos </span> </a> </li>
                   <li class="jw-menu-item"> <a class="jw-menu-link" href="/Gallerie.html"
 
                       data-page-link-id="23128367"> <span class=""> Gallerie </span>
@@ -726,6 +727,8 @@ required="required" id="jwFormrnwPZR_dynamic-form-2818083-9929566" class="form-c
 
                           style="">
                           <div class="jw-btn-caption"> Reservez votre Aventure </div>
+                          <div class="jw-btn-caption"><br>
+                          </div>
                         </a> </div>
                     </div>
                   </div>
@@ -733,6 +736,8 @@ required="required" id="jwFormrnwPZR_dynamic-form-2818083-9929566" class="form-c
               </div>
             </div>
           </div>
+          <br>
+          © 2024 Pedal Planet Expeditions <br>
         </main>
       </div>
     </div>
