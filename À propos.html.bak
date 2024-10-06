@@ -417,7 +417,10 @@ nonce=""></script>
                                 veuillez m'écrire en privé.</span></p>
                             <p>&nbsp;</p>
                             <p><strong>Configuration de mon vélo</strong></p>
-                            <p>&nbsp;</p>
+                          </div>
+                          <div class="jw-element-imagetext-text"><br>
+                          </div>
+                          <div class="jw-element-imagetext-text"><br>
                             <p><span>Je vous indique la config de base de mon
                                 vélo si vous voulez comparer si les trajets sont
                                 aussi faisable avec vos vélos car certain trajet
