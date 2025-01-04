@@ -1,0 +1,14 @@
+@charset "utf-8";
+body {
+    background-image: url(url), -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(0,44,255,1.00) 100%);
+    background-image: url(url), -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(0,44,255,1.00) 100%);
+    background-image: url(url), -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(0,44,255,1.00) 100%);
+    background-image: url(url), linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(0,44,255,1.00) 100%);
+}
+.container-fluid .container .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #000000;
+    background-image: -webkit-linear-gradient(270deg,rgba(84,157,203,1.00) 100%,rgba(174,229,222,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(84,157,203,1.00) 100%,rgba(174,229,222,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(84,157,203,1.00) 100%,rgba(174,229,222,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(84,157,203,1.00) 100%,rgba(174,229,222,1.00) 100%,rgba(255,0,0,1.00) 100%);
+}
