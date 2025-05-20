@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pedal Planet Adventures",
+    "description": "",
+    "home_page_url": "https://ppadventures.ddns.net",
+    "feed_url": "https://ppadventures.ddns.net/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Eric Daviau"
+    },
+    "items": [
+    ]
+}
